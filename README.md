@@ -3,4 +3,4 @@ The Grand Horizon Hospitality Revenue Analytics project, completed in collaborat
 Through this project, I gained practical knowledge of Excel-based data analytics, statistical testing, data cleaning, visualization, regression, hypothesis testing and business interpretation. Most importantly, we learned how to move from raw data → analysis → insights → informed business decisions. The project helped us understand that analytics is not only about calculations, but about using evidence to support better pricing, revenue and operational strategies.
 
 MS EXCEL PROJECT FILE:
-https://docs.google.com/spreadsheets/d/1BBgcvkJ0UHqx5anJSXXcYEJ9FlheQjcZ/edit?usp=drivesdk&ouid=108434284455423292740&rtpof=true&sd=true
+https://drive.google.com/drive/folders/1aTQJUX80i2CPCjLgCqmFp9j1_JMT0ZA6?usp=sharing
